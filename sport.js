@@ -7,6 +7,6 @@ function getSport(id) {
     case 3:
       return "football";
     case 4:
-      return "smoking meats";
+      return "golf";
   }
 }
